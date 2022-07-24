@@ -1,0 +1,14 @@
+{
+    "report_name":"ny_retail_report.pdf",
+    "viz":{
+        "template":"plotly_white",
+        "colours":"Cividis_r",
+        "margin":{
+            "t":50,
+            "b":40,
+            "l":20,
+            "r":20
+        }
+    }
+
+}
